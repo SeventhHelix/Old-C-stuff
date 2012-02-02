@@ -1,0 +1,7 @@
+Some older C stuff I had worked on in CS136, a first year CS course programming in Scheme and C.
+
+You'll find some hobo/hackish implementations of various sorts, hash tables, and among other things, a fun text compression and decompression algorithm.
+
+I'd like to note that this is old-ish code, and that my documentation was a bit overboard to please the markers for the course. I'd like to think that my code is more readable now as well :)
+
+Compiling any of it should be pretty easy. Just include the files where needed, and compile as normal. I don't believe there are any specifics needed to compile any of this code.
